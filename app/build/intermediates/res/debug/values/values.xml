@@ -164,11 +164,6 @@
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
-    <!-- From: file:/home/lotrik/Projects/DZ_8/app/src/main/res/values/dimens.xml -->
-    <eat-comment/>
-    <dimen name="test">16dp</dimen>
-    <!-- From: file:/home/lotrik/Projects/DZ_8/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
-    <eat-comment/>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
@@ -206,6 +201,7 @@
     <string name="action_settings">Settings</string>
     <string name="app_name">DZ_8</string>
     <string name="hello_world">Hello world!</string>
+    <string name="new_game">New Game</string>
     <!-- From: file:/home/lotrik/Projects/DZ_8/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>

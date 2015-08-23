@@ -120,7 +120,7 @@
         <Button
             android:id="@+id/newGame"
 
-            android:text="New Game"
+            android:text="@string/new_game"
             android:textColor="#FF0808"
             android:textSize="30sp"
             android:layout_centerVertical="true"
@@ -135,6 +135,20 @@
             android:shadowRadius="5"
             />
 
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
     </RelativeLayout>
 
 </LinearLayout><!-- From: file:/home/lotrik/Projects/DZ_8/app/src/main/res/layout/activity_main.xml -->
